@@ -1,0 +1,44 @@
+
+/* Testimonial Swiper Style start */
+
+
+  .swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    max-width: 450px;
+  }
+
+
+  .h-line{
+    max-width: 100px;
+    height: 1px;
+    background: #198754;
+    margin: 15px auto;
+    margin-top: -40px;
+  }
+
+
+  .move {
+    transition: all 0.3s;
+  }
+
+  .move:hover {
+    transform: scale(1.1);
+  }
+/* Testimonial Swiper Style end */
+
+
+
+/* Facilities Design start */
+
+
+
+
+
+/* Facilities Design end */
